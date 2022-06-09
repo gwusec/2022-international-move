@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security and Privacy Challenges when immigrating to the US</title>
+      <link>/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description>International immigration means that people leave their “known” environment and have to interact with new entities, often sharing a lot of sensitive information in a short amount of time. Usually, “adulting&#34; and community help understand how to navigate these. However, when changing the environment radically, these “usual” pathways to navigate data sharing and whether or not something is a “scam” may be a lot harder. We are interested in understanding the challenges that international immigrants to the US face and what measures they undertake to protect their security and privacy.</description>
+    </item>
+    
+  </channel>
+</rss>
